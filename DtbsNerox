@@ -1,7 +1,7 @@
 {
-  "keys": [
+  "user": [
     {
-      "key": "admin",
+      "password": "admin",
       "numbers": [
         "085167434656",
         "6285640558812",
